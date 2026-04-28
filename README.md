@@ -21,9 +21,9 @@ sudo pacman -S go
 Se recomienda descargar el instalador oficial directamente desde la documentación de Go: [go.dev/doc/install](https://go.dev/doc/install).
 
 Para verificar que la instalación se configuró correctamente, ejecute el siguiente comando en la terminal:
-\`\`\`bash
+```bash
 go version
-\`\`\`
+```
 
 ---
 
